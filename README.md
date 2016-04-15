@@ -1,8 +1,8 @@
 # Nlyte
-Demo project for a class library for managing a phone book
-Technologies and design pattern used:
-EF 6,
+Demo project for a class library for managing a phonebook.
+Technologies and design patterns used:
+Unit of Work pattern,
 Repository pattern,
-Unit of Work patter,
+EF 6,
 DI,
-Moq
+Moq unit testing framework.
